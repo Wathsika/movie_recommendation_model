@@ -52,7 +52,7 @@ Fix: Implemented partial string matching using str.contains()
 
 ### Problem 3: Memory Explosion (774 MB File)
 Issue: Precomputing full similarity matrix created ~94M cells  
-Fix: Switched to On-the-Fly computation, reducing size to ~10 MB (98% reduction)
+Fix: Switched to On-the-Fly computation, reducing size to ~50 MB
 
 ## 6. Python Libraries Used
 - Pandas → Data manipulation
